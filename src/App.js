@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './abhi.png';
+// import logo from './abhi.png';
 
 import './App.css';
 
